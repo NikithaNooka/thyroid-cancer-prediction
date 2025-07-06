@@ -66,7 +66,8 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SHAP, Pickle
 
 **Nikitha Nooka**  
 Data Analytics & Healthcare AI Enthusiast  
-📧 nikithanooka22@gmail.com  
+📧 Email: nikithanooka22@gmail.com
+📞 Phone: +91-9966102426
 🔗 [LinkedIn](https://www.linkedin.com/in/nikithanooka22)  
 🔗 [LeetCode](https://leetcode.com/u/NikithaNooka/)  
 🔗 [HackerRank](https://www.hackerrank.com/profile/NIKITHANOOKA22)  
